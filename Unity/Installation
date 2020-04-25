@@ -1,0 +1,5 @@
+sudo apt install unity8-desktop-session-mir
+
+sudo add-apt-repository ppa:ci-train-ppa-service/stable-phone-overlay
+
+sudo apt update && sudo apt upgrade
